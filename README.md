@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CihanItem
-- 👀 I’m interested in JavaScript, HTML, CSS, PHP, SQL, Java
-- 🌱 I’m currently learning JavaScript, PHP, SQL
-- 💞️ I’m looking to collaborate on JavaScript
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mysian
+- 👀 I’m interested in Node.js and MongoDB
+- 🌱 I’m currently learning Copilot Studio
 
 <!---
 CihanItem/CihanItem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
